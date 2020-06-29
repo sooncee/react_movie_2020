@@ -1,0 +1,28 @@
+.nav{
+    min-height:100%;
+    width:300px;
+    position: relative;
+    background:rgb(19,25,44);
+    padding-top:50px;
+}
+
+.nav a{
+    display: block;
+    margin-left: 45px;
+    margin: 25px 0 25px 45px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size:14px;
+    text-decoration: none;
+    color:#fafafa;
+}
+.nav h3{
+    font-size:12px;
+    color:rgb(228,0,79);
+    margin:80px 0 -5px 45px;
+
+}
+
+#root{
+    display: flex;
+}
